@@ -1,6 +1,6 @@
 # Write program to convert temperature from Celsius to Fahrenheit
 # 9/19/18
-# CTI-110 P2T1 - Sales Prediction
+# CTI-110 P2T1 - Celsius to Fahrenheit Temperature Converter
 # Ivan Studer
 
 #Get temperature in Celsius.
